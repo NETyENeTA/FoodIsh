@@ -1,0 +1,41 @@
+# .NET
+bin/
+obj/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+Metrica.slnLaunch.user
+
+# Build
+*.exe
+*.dll
+*.pdb
+
+# IDE
+/.idea
+/.vscode
+/.vs
+*.DotSettings
+*.DotSettings.user
+*.csproj.user
+*.user
+*.suo
+
+# SQLite DB files
+*.db
+*.db-shm
+*.db-wal
+
+# Dependencies
+packages/
+node_modules/
+
+# Secrets
+.env
+*.env.local
+appsettings.private.json
+
+# Logs
+*.log
+*.tmp
