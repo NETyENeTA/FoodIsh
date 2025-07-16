@@ -1,1 +1,1 @@
-Hello this is my project, and this is development way, or dev branch. Some new, still Things are Old.
+Hello this is my project, and this is development way, or dev branch. Some new, still Things are Old. Release 0.5.0;
